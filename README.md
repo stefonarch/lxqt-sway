@@ -1,6 +1,6 @@
 # lxqt-sway
 
-This project tries to port LXQt desktop to Sway (Wayland).
+This project tries to port the LXQt Desktop to Sway (Wayland).
 
 It needs [yatbfw](https://github.com/selairi/yatbfw) toolbar.
 
@@ -8,7 +8,7 @@ It needs [yatbfw](https://github.com/selairi/yatbfw) toolbar.
 
 ## Install
 
-You need install LXQt and [yatbfw](https://github.com/selairi/yatbfw) toolbar. Then run:
+You need to install LXQt, sway and [yatbfw](https://github.com/selairi/yatbfw) toolbar. Then run:
 
 ```
 mkdir build
@@ -18,7 +18,7 @@ make
 sudo make install
 ```
 
-Restart your Display Manager and a new Desktop will be available.
+Restart your Display Manager and a new Desktop "LXQt-sway (wayland) will be available.
 
 Other tools could be installed for a better experience:
 - [gammastep](https://gitlab.com/chinstrap/gammastep)
